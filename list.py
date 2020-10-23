@@ -5,4 +5,5 @@ l2=l2[::-1]
 str1=' '
 print(l1)
 print(l2)
+print(l1+l2)
 
